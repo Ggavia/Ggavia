@@ -1,4 +1,4 @@
- 👋 Olá, sou @Ggavia
+ 👋 Olá, sou @Ggavila
 
 Olá! Este repositório contém uma coleção de projetos e experiências relacionadas à minha carreira como Desenvolvedor Full Stack.
 Aqui você encontrará detalhes sobre as tecnologias que utilizo, projetos que desenvolvi e minhas experiências profissionais.
